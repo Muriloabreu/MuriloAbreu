@@ -14,5 +14,12 @@
 </div>
   
   ##
+  
+  <div>
+    <a href="https://instagram.com/muriloabreu2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="http://linkedin.com/in/murilo-abreu-07544973" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href = "mailto:contatoabreu.murilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+   <a href="mailto:contatomurilo.lilo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a> 
+  </div>
 
 
