@@ -1,4 +1,9 @@
-### Oi! Eu sou o Murilo Abreu
+### Oi! Eu sou o Murilo Abreu 👋
+
+#### - Desenvolvedor back-end JAVA | Spring boot | Postgres e apaixonado por tecnologia
+ -Tenho experiência em desenvolvimento sistemas e APIs RESTful utilizando Java e o framework Spring Boot, com o JPA para manipulação de dados em bancos de dados PostgreSQL.
+- Sempre busco aprimorar minhas habilidades e para isso acontecer busco aprender mais e mais.
+
 ### Perfil
 <div>
   <a href="https://github.com/muriloabreu">
