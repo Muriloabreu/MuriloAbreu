@@ -9,8 +9,7 @@
   <a href="https://github.com/muriloabreu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloAbreu&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muriloabreu&layout=compact&langs_count=7&theme=onedark"/>  
-</div>
-  
+</div>  
   ### My techs
   <div>
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> 
