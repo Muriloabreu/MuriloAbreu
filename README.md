@@ -5,15 +5,18 @@
 - Sempre busco aprimorar minhas habilidades e para isso acontecer busco aprender mais e mais.
 
 ### Perfil
-<div>
+<div align="center">
   <a href="https://github.com/muriloabreu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muriloabreu&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muriloabreu&layout=compact&langs_count=7&theme=onedark"/>  
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=muriloabreu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muriloabreu&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=muriloabreu&theme=dracula"/>
+  </a>
 </div>  
+
 ### My techs
   <div><br>
-  <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=40 height=40 /> 
-  <img alt="Spring boot" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width=40 height=40 />
+  <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=50 height=40 /> 
+  <img alt="Spring boot" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width=50 height=40 />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> 
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=40 height=40 /> 
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> 
