@@ -11,11 +11,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muriloabreu&layout=compact&langs_count=7&theme=onedark"/>  
 </div>  
   ### My techs
-  <div>
-   <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=40 height=40 /> 
+  <div><br>
+    <img align="center" alt="Jose-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Jose-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> 
+  <img img align="center" alt="Jose-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+   <!--<img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=40 height=40 /> 
   <img alt="Spring boot" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width=40 height=40 />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> 
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=40 height=40 />   
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=40 height=40 /> -->  
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> 
   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 />
   </div>
