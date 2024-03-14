@@ -10,7 +10,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muriloabreu&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muriloabreu&layout=compact&langs_count=7&theme=onedark"/>  
 </div>  
-  ### My techs
+### My techs
   <div><br>
   <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=40 height=40 /> 
   <img alt="Spring boot" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width=40 height=40 />
